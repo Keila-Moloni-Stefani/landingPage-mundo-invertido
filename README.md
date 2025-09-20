@@ -3,28 +3,31 @@
 </p>
 
 -------
+
+# Landing Page Mundo Invertido
+
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
-## 💻 Tecnologias
-- HTML
-- CSS
-- JavaScript
+*O projeto foi desenvolvido como parte do desafio da **DIO (Digital Innovation One)**.*
 
-## 💬 Assuntos abordados
-- HTML
-    - Estruturação da página 
-    - Semântica
-    - Acessibilidade
-    - Web Scraping
-    - SEO
-- CSS
-    - Posicionamentos
-    - Pseudo-elementos
-    - Pseudo-classes
-    - Flexbox
-    - Animações 
-- JavaScript
-    - Introdução ao JavaScript
-    - Manipulação do DOM
-    - Introdução ao Firebase
-    - Integração com o Firebase
+
+# Tecnologias utilizadas
+- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logocolor=black">
+
+# Como Executar o Projeto
+```bash
+git clone https://github.com/Keila-Moloni-Stefani/landingPage-mundo-invertido.git
+cd landingPage-mundo-invertido
+```
+```bash
+Clone este repositório para sua máquina local.
+Abra o arquivo index.html em seu navegador web.
+```
+
+# 👩🏻‍💻Desenvolvedor
+Desenvolvido por Keila Moloni Stefani
+________________________________________
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
